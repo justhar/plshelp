@@ -14,7 +14,7 @@
   "main": "main.js",
   "scripts": {
     "build": "vite build",
-    "preview": "vite preview",
+    "preview": "vite preview"
   },
   "author": "",
   "license": "ISC",
